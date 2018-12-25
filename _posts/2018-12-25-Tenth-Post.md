@@ -5,7 +5,7 @@ title: Christmas Day!
 
 Well it's Christmas morning, and here I sit at my computer enjoying the quite time I have to myself.
 <br>
-I continued going throhg the brain.js course today, but I think it's a little bit over my head for where I am at currently in my learning. I think I will continue working through Jon Duckett's book and see if I can make some progress that way. 
+I continued going through the brain.js course today, but I think it's a little bit over my head for where I am at currently in my learning. I think I will continue working through Jon Duckett's book and see if I can make some progress that way. 
 
 ---
 
