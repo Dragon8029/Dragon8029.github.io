@@ -14,6 +14,4 @@ Here is a link to my portfolio page:
 
 
 
-s
-
 
